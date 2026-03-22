@@ -1,0 +1,5 @@
+# Ignore all Python cache directories
+__pycache__/
+
+# Ignore all directories starting with "results"
+result*/
